@@ -2,6 +2,8 @@ import cookieParser from "cookie-parser";
 import cors from "cors";
 import express, { Router } from "express";
 import helmet from "helmet";
+
+const helmetMiddleware = helmet;
 import morgan from "morgan";
 import swaggerJsdoc from "swagger-jsdoc";
 import swaggerUi from "swagger-ui-express";
@@ -33,7 +35,7 @@ export const createApp = (): express.Express => {
 
   app.use(requestContext);
   app.use(
-    helmet({
+    helmetMiddleware({
       contentSecurityPolicy: isProduction
         ? {
             directives: {
