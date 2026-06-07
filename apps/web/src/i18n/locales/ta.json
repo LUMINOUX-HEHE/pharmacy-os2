@@ -1,0 +1,94 @@
+{
+  "common": {
+    "save": "சேமி",
+    "cancel": "ரத்து செய்",
+    "delete": "நீக்கு",
+    "confirm": "உறுதி செய்",
+    "search": "தேடு",
+    "loading": "ஏற்றப்படுகிறது",
+    "error": "பிழை",
+    "success": "வெற்றி",
+    "yes": "ஆம்",
+    "no": "இல்லை",
+    "back": "பின்",
+    "next": "அடுத்து"
+  },
+  "nav": {
+    "dashboard": "டாஷ்போர்டு",
+    "inventory": "இன்வென்டரி",
+    "billing": "பில்லிங்",
+    "orders": "ஆர்டர்கள்",
+    "storefront": "ஸ்டோர்ஃபிரண்ட்",
+    "customers": "வாடிக்கையாளர்கள்",
+    "analytics": "பகுப்பாய்வு",
+    "settings": "அமைப்புகள்"
+  },
+  "dashboard": {
+    "revenueToday": "இன்றைய வருவாய்",
+    "ordersToday": "இன்றைய ஆர்டர்கள்",
+    "lowStock": "குறைந்த ஸ்டாக்",
+    "expiry": "காலாவதி எச்சரிக்கை",
+    "revenueTrend": "வருவாய் போக்கு",
+    "topMedicines": "முன்னணி மருந்துகள்"
+  },
+  "inventory": {
+    "medicineName": "மருந்து பெயர்",
+    "category": "வகை",
+    "manufacturer": "தயாரிப்பாளர்",
+    "batch": "பேட்ச் எண்",
+    "expiry": "காலாவதி தேதி",
+    "mrp": "எம்ஆர்பி",
+    "stock": "ஸ்டாக் அளவு",
+    "reorder": "மறு ஆர்டர் நிலை",
+    "lowStock": "குறைந்த ஸ்டாக்",
+    "outOfStock": "ஸ்டாக் இல்லை"
+  },
+  "billing": {
+    "cart": "கார்ட்",
+    "patient": "நோயாளர் தகவல்",
+    "paymentMode": "கட்டண முறை",
+    "cash": "பணம்",
+    "upi": "யூபிஐ",
+    "card": "கார்டு",
+    "credit": "கடன்",
+    "subtotal": "துணை மொத்தம்",
+    "discount": "தள்ளுபடி",
+    "grandTotal": "மொத்த தொகை"
+  },
+  "orders": {
+    "new": "புதியது",
+    "confirmed": "உறுதி செய்யப்பட்டது",
+    "preparing": "தயாராகிறது",
+    "outForDelivery": "டெலிவரிக்குப் புறப்பட்டது",
+    "delivered": "டெலிவரி முடிந்தது"
+  },
+  "customers": {
+    "active": "செயலில்",
+    "dormant": "செயலற்றது",
+    "creditPending": "கடன் நிலுவை",
+    "ledger": "கணக்கு புத்தகம்",
+    "debit": "டெபிட்",
+    "credit": "கிரெடிட்"
+  },
+  "analytics": {
+    "revenueTrend": "வருவாய் போக்கு",
+    "gstr1": "ஜிஎஸ்டிஆர்-1",
+    "generateReport": "அறிக்கை உருவாக்கு"
+  },
+  "settings": {
+    "pharmacyProfile": "மருந்தக சுயவிவரம்",
+    "subscription": "சந்தா",
+    "team": "குழு மற்றும் அணுகல்",
+    "notifications": "அறிவிப்புகள்",
+    "integrations": "இணைப்புகள்",
+    "appearance": "தோற்றம்"
+  },
+  "auth": {
+    "email": "மின்னஞ்சல் முகவரி",
+    "password": "கடவுச்சொல்",
+    "phone": "தொலைபேசி எண்",
+    "address": "முகவரி",
+    "invalidCredentials": "மின்னஞ்சல் அல்லது கடவுச்சொல் தவறு",
+    "otpInvalid": "ஓடிபி தவறானது அல்லது காலாவதியானது"
+  }
+}

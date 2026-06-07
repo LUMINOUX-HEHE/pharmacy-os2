@@ -1,0 +1,94 @@
+{
+  "common": {
+    "save": "सेव्ह करा",
+    "cancel": "रद्द करा",
+    "delete": "हटवा",
+    "confirm": "पुष्टी करा",
+    "search": "शोधा",
+    "loading": "लोड होत आहे",
+    "error": "त्रुटी",
+    "success": "यशस्वी",
+    "yes": "होय",
+    "no": "नाही",
+    "back": "मागे",
+    "next": "पुढे"
+  },
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "inventory": "इन्व्हेंटरी",
+    "billing": "बिलिंग",
+    "orders": "ऑर्डर",
+    "storefront": "स्टोरफ्रंट",
+    "customers": "ग्राहक",
+    "analytics": "विश्लेषण",
+    "settings": "सेटिंग्ज"
+  },
+  "dashboard": {
+    "revenueToday": "आजचा महसूल",
+    "ordersToday": "आजचे ऑर्डर",
+    "lowStock": "कमी स्टॉक",
+    "expiry": "एक्सपायरी अलर्ट",
+    "revenueTrend": "महसूल प्रवाह",
+    "topMedicines": "शीर्ष औषधे"
+  },
+  "inventory": {
+    "medicineName": "औषधाचे नाव",
+    "category": "वर्ग",
+    "manufacturer": "निर्माता",
+    "batch": "बॅच नंबर",
+    "expiry": "एक्सपायरी तारीख",
+    "mrp": "एमआरपी",
+    "stock": "स्टॉक मात्रा",
+    "reorder": "रीऑर्डर पातळी",
+    "lowStock": "कमी स्टॉक",
+    "outOfStock": "स्टॉक संपला"
+  },
+  "billing": {
+    "cart": "कार्ट",
+    "patient": "रुग्ण माहिती",
+    "paymentMode": "पेमेंट पद्धत",
+    "cash": "रोख",
+    "upi": "यूपीआय",
+    "card": "कार्ड",
+    "credit": "उधार",
+    "subtotal": "उप-एकूण",
+    "discount": "सवलत",
+    "grandTotal": "एकूण रक्कम"
+  },
+  "orders": {
+    "new": "नवीन",
+    "confirmed": "पुष्टी झाले",
+    "preparing": "तयार होत आहे",
+    "outForDelivery": "डिलिव्हरीसाठी निघाले",
+    "delivered": "डिलिव्हर झाले"
+  },
+  "customers": {
+    "active": "सक्रिय",
+    "dormant": "निष्क्रिय",
+    "creditPending": "उधार बाकी",
+    "ledger": "खाते वही",
+    "debit": "डेबिट",
+    "credit": "क्रेडिट"
+  },
+  "analytics": {
+    "revenueTrend": "महसूल प्रवाह",
+    "gstr1": "जीएसटीआर-1",
+    "generateReport": "रिपोर्ट तयार करा"
+  },
+  "settings": {
+    "pharmacyProfile": "फार्मसी प्रोफाइल",
+    "subscription": "सदस्यता",
+    "team": "टीम आणि प्रवेश",
+    "notifications": "सूचना",
+    "integrations": "इंटीग्रेशन",
+    "appearance": "दिसणे"
+  },
+  "auth": {
+    "email": "ईमेल पत्ता",
+    "password": "पासवर्ड",
+    "phone": "फोन नंबर",
+    "address": "पत्ता",
+    "invalidCredentials": "ईमेल किंवा पासवर्ड चुकीचा आहे",
+    "otpInvalid": "ओटीपी अवैध किंवा कालबाह्य आहे"
+  }
+}

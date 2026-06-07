@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+coverage
+.turbo
+.env
+.env.local
+.env.*.local
+*.log
+*.tsbuildinfo
+apps/api/prisma/migrations/dev.db
+apps/web/playwright-report
+apps/web/test-results
+uploads

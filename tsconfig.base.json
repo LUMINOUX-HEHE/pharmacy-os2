@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "noImplicitOverride": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@pharmacy-os/types": ["packages/types/src"],
+      "@pharmacy-os/types/*": ["packages/types/src/*"],
+      "@pharmacy-os/utils": ["packages/utils/src"],
+      "@pharmacy-os/utils/*": ["packages/utils/src/*"],
+      "@pharmacy-os/ui": ["packages/ui/src"],
+      "@pharmacy-os/ui/*": ["packages/ui/src/*"]
+    }
+  }
+}
